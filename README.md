@@ -1,7 +1,5 @@
 # single-image-upload-from-database
 
-# single-image-upload-from-database
-
 
 **Technologies Used**
 * HTML5
